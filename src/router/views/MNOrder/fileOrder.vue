@@ -121,9 +121,8 @@ export default {
                       id="DataTables_Table_0"
                       aria-describedby="DataTables_Table_0_info"
                       role="grid"
-                      style="width: 970px"
                     >
-                      <thead>
+                      <thead> 
                         <tr role="row">
                           <th
                             class="sorting_disabled"

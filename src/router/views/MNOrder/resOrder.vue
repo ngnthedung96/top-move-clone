@@ -223,7 +223,6 @@ export default {
                     id="DataTables_Table_0"
                     role="grid"
                     aria-describedby="DataTables_Table_0_info"
-                    style="width: 977px"
                   >
                     <thead>
                       <tr role="row">
